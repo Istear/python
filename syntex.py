@@ -37,3 +37,7 @@ print(s)
 s = ''' string can span
         multiple line '''
 print(s)
+
+#variable
+first_variable=0
+second_variable=0
