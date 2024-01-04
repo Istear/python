@@ -41,3 +41,4 @@ print(s)
 #variable
 first_variable=0
 second_variable=0
+variable = 1
